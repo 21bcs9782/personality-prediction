@@ -1,6 +1,6 @@
 # Personality Prediction Analyzer
 
-The Personality Prediction Analyzer is a tool developed by Manas Prakash Katuri that predicts personality traits based on the input text provided by the user. This tool utilizes natural language processing techniques, sentiment analysis, and word frequency analysis to analyze the text and generate insights into the user's personality.
+The Personality Prediction Analyzer is a tool developed by Sonia Beniwal that predicts personality traits based on the input text provided by the user. This tool utilizes natural language processing techniques, sentiment analysis, and word frequency analysis to analyze the text and generate insights into the user's personality.
 
 ## Features
 - Predicts personality traits such as optimism, critical thinking, and extraversion.
@@ -11,7 +11,7 @@ The Personality Prediction Analyzer is a tool developed by Manas Prakash Katuri 
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/manaskaturi/Personality-Prediction-Analyzer.git
+   git clone https://github.com/21bcs9782/personality-prediction.git
 2. Navigate to the project directory:
    ```bash 
    cd Personality-Prediction-Analyzer
@@ -33,4 +33,4 @@ The Personality Prediction Analyzer is a tool developed by Manas Prakash Katuri 
 This project is experimental and serves as a starting point for further development. Users are encouraged to modify the code according to their needs, such as incorporating additional datasets or implementing new functionalities.
 
 ## Credits
-This tool is developed by Manas Prakash Katuri.
+This tool is developed by Sonia Beniwal.
